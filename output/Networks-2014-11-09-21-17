@@ -1,0 +1,113 @@
+Carrier -> MTN Ghana : Location -> Africa/Ghana 
+route-server.mtn.com.gh -> Network 17.67.192.0/22 -> ASN Path   16637 3549 8220 714 -> Last Hop ASN 8220
+route-server.mtn.com.gh -> Network 17.78.179.0/24 -> ASN Path   16637 8551 714 -> Last Hop ASN 8551
+route-server.mtn.com.gh -> Network 17.78.187.0/24 -> ASN Path   16637 8551 714 -> Last Hop ASN 8551
+Carrier -> Optus Australia : Location -> Australia/Chatswood 
+route-server.mtn.com.gh -> Network 17.78.187.0/24 -> ASN Path   16637 8551 714 -> Last Hop ASN 8551
+route-views.optus.net.au -> Network 17.67.192.0/22 -> ASN Path   7474 7473 3320 3320 8220 714 -> Last Hop ASN 8220
+route-views.optus.net.au -> Network 17.78.179.0/24 -> ASN Path   7474 7473 6939 8551 714 -> Last Hop ASN 8551
+route-views.optus.net.au -> Network 17.78.187.0/24 -> ASN Path   7474 7473 6939 8551 714 -> Last Hop ASN 8551
+Carrier -> PTT-Metro Sao Paulo : Location -> Brazil/Sao Paulo 
+route-views.optus.net.au -> Network 17.78.187.0/24 -> ASN Path   7474 7473 6939 8551 714 -> Last Hop ASN 8551
+route-views.optus.net.au -> Network 17.78.187.0/24 -> ASN Path   7474 7473 6939 8551 714 -> Last Hop ASN 8551
+route-views.optus.net.au -> Network 17.78.187.0/24 -> ASN Path   7474 7473 6939 8551 714 -> Last Hop ASN 8551
+route-views.optus.net.au -> Network 17.78.187.0/24 -> ASN Path   7474 7473 6939 8551 714 -> Last Hop ASN 8551
+Carrier -> Telus - Eastern Canada  : Location -> Canada/Burnaby  
+route-views.optus.net.au -> Network 17.78.187.0/24 -> ASN Path   7474 7473 6939 8551 714 -> Last Hop ASN 8551
+route-views.on.bb.telus.com -> Network 17.67.192.0/22 -> ASN Path   852 3561 8220 714 -> Last Hop ASN 8220
+route-views.on.bb.telus.com -> Network 17.78.179.0/24 -> ASN Path   852 6939 8551 714 -> Last Hop ASN 8551
+route-views.on.bb.telus.com -> Network 17.78.187.0/24 -> ASN Path   852 6939 8551 714 -> Last Hop ASN 8551
+Carrier -> Telus - Western Canada  : Location -> Canada 
+route-views.on.bb.telus.com -> Network 17.78.187.0/24 -> ASN Path   852 6939 8551 714 -> Last Hop ASN 8551
+route-views.ab.bb.telus.com -> Network 17.67.192.0/22 -> ASN Path   852 3561 8220 714 -> Last Hop ASN 8220
+route-views.ab.bb.telus.com -> Network 17.78.179.0/24 -> ASN Path   852 6939 8551 714 -> Last Hop ASN 8551
+route-views.ab.bb.telus.com -> Network 17.78.187.0/24 -> ASN Path   852 6939 8551 714 -> Last Hop ASN 8551
+Carrier -> Allstream - Central : Location -> Canada/Toronto 
+Failed to connect to route-server.central.allstream.com
+Carrier -> Allstream - East : Location -> Canada/Montreal 
+Failed to connect to route-server.east.allstream.com
+Carrier -> Eastlink : Location -> Canada/Halifax 
+route-views.ab.bb.telus.com -> Network 17.78.187.0/24 -> ASN Path   852 6939 8551 714 -> Last Hop ASN 8551
+route-views.ab.bb.telus.com -> Network 17.78.187.0/24 -> ASN Path   852 6939 8551 714 -> Last Hop ASN 8551
+route-views.ab.bb.telus.com -> Network 17.78.187.0/24 -> ASN Path   852 6939 8551 714 -> Last Hop ASN 8551
+route-views.ab.bb.telus.com -> Network 17.78.187.0/24 -> ASN Path   852 6939 8551 714 -> Last Hop ASN 8551
+Carrier -> OpenTransit : Location -> France 
+route-views.ab.bb.telus.com -> Network 17.78.187.0/24 -> ASN Path   852 6939 8551 714 -> Last Hop ASN 8551
+route-server.opentransit.net -> Network 17.67.192.0/22 -> ASN Path 3320 3320 8220 714 -> Last Hop ASN 8220
+route-server.opentransit.net -> Network 17.78.179.0/24 -> ASN Path 3257 9116 714 -> Last Hop ASN 9116
+route-server.opentransit.net -> Network 17.78.187.0/24 -> ASN Path 3257 9116 714 -> Last Hop ASN 9116
+Carrier -> Tiscali  : Location -> Germany 
+route-server.opentransit.net -> Network 17.78.187.0/24 -> ASN Path 3257 9116 714 -> Last Hop ASN 9116
+route-server.ip.tiscali.net -> Network 17.67.192.0/22 -> ASN Path   3257 8220 8220 714 -> Last Hop ASN 8220
+route-server.ip.tiscali.net -> Network 17.78.179.0/24 -> ASN Path   3257 8551 714 -> Last Hop ASN 8551
+route-server.ip.tiscali.net -> Network 17.78.187.0/24 -> ASN Path   3257 8551 714 -> Last Hop ASN 8551
+Carrier -> BelWue : Location -> Germany/Stuttgart 
+route-server.ip.tiscali.net -> Network 17.78.187.0/24 -> ASN Path   3257 8551 714 -> Last Hop ASN 8551
+route-server.belwue.de -> Network 17.67.192.0/22 -> ASN Path   3356 8220 714 -> Last Hop ASN 8220
+route-server.belwue.de -> Network 17.78.179.0/24 -> ASN Path   8551 714 -> Last Hop ASN 8551
+route-server.belwue.de -> Network 17.78.187.0/24 -> ASN Path   8551 714 -> Last Hop ASN 8551
+Carrier -> Oregon Route Views Project : Location -> Japan 
+route-server.belwue.de -> Network 17.78.187.0/24 -> ASN Path   8551 714 -> Last Hop ASN 8551
+route-views.wide.routeviews.org -> Network 17.67.192.0/22 -> ASN Path   7500 2497 8220 714 -> Last Hop ASN 8220
+route-views.wide.routeviews.org -> Network 17.78.179.0/24 -> ASN Path   2497 6939 8551 714 -> Last Hop ASN 8551
+route-views.wide.routeviews.org -> Network 17.78.187.0/24 -> ASN Path   2497 6939 8551 714 -> Last Hop ASN 8551
+Carrier -> Oregon Route Views with Verizon UK : Location -> UK 
+route-views.wide.routeviews.org -> Network 17.78.187.0/24 -> ASN Path   2497 6939 8551 714 -> Last Hop ASN 8551
+route-views.linx.routeviews.org -> Network 17.67.192.0/22 -> ASN Path   13030 8220 714 -> Last Hop ASN 8220
+route-views.linx.routeviews.org -> Network 17.78.179.0/24 -> ASN Path   3257 9116 714 -> Last Hop ASN 9116
+route-views.linx.routeviews.org -> Network 17.78.187.0/24 -> ASN Path   3257 9116 714 -> Last Hop ASN 9116
+Carrier -> Bayan Telecom Inc. : Location -> Philippines 
+Failed to connect to route-server.bti.net.ph
+Carrier -> Swisscom IP Plus  : Location -> Switzerland 
+route-views.linx.routeviews.org -> Network 17.78.187.0/24 -> ASN Path   3257 9116 714 -> Last Hop ASN 9116
+route-server.ip-plus.net -> Network 17.67.192.0/22 -> ASN Path   (65000) 8220 714 -> Last Hop ASN 8220
+route-server.ip-plus.net -> Network 17.78.179.0/24 -> ASN Path   (65000) 8551 714 -> Last Hop ASN 8551
+route-server.ip-plus.net -> Network 17.78.187.0/24 -> ASN Path   (65000) 8551 714 -> Last Hop ASN 8551
+Carrier -> South AfricanInternet Exchange - SAIX : Location -> South Africa 
+Failed to connect to tpr-route-server.saix.net
+Carrier -> Sunrise Switzerland : Location -> Switzerland 
+route-server.ip-plus.net -> Network 17.78.187.0/24 -> ASN Path   (65000) 8551 714 -> Last Hop ASN 8551
+routeserver.sunrise.ch -> Network 17.67.192.0/22 -> ASN Path   8220 714 -> Last Hop ASN 8220
+routeserver.sunrise.ch -> Network 17.78.179.0/24 -> ASN Path   8551 714 -> Last Hop ASN 8551
+routeserver.sunrise.ch -> Network 17.78.187.0/24 -> ASN Path   8551 714 -> Last Hop ASN 8551
+Carrier ->  FL : Location -> USA/Boca Raton 
+routeserver.sunrise.ch -> Network 17.78.187.0/24 -> ASN Path   8551 714 -> Last Hop ASN 8551
+route-server.host.net -> Network 17.67.192.0/22 -> ASN Path   13645 19151 8220 714 -> Last Hop ASN 8220
+route-server.host.net -> Network 17.78.179.0/24 -> ASN Path   13645 19151 8551 714 -> Last Hop ASN 8551
+route-server.host.net -> Network 17.78.187.0/24 -> ASN Path   13645 19151 8551 714 -> Last Hop ASN 8551
+Carrier -> Global Crossing : Location -> USA/Sunnyvale 
+route-server.host.net -> Network 17.78.187.0/24 -> ASN Path   13645 19151 8551 714 -> Last Hop ASN 8551
+route-server.gblx.net -> Network 17.67.192.0/22 -> ASN Path   3356 3356 3356 8220 714 -> Last Hop ASN 8220
+route-server.gblx.net -> Network 17.78.179.0/24 -> ASN Path   3356 3491 9116 9116 9116 9116 714 -> Last Hop ASN 9116
+route-server.gblx.net -> Network 17.78.187.0/24 -> ASN Path   3356 3491 9116 9116 9116 9116 714 -> Last Hop ASN 9116
+Carrier -> Zebra Route Views on ISC.org  : Location -> USA/CA  
+route-server.gblx.net -> Network 17.78.187.0/24 -> ASN Path   3356 3491 9116 9116 9116 9116 714 -> Last Hop ASN 9116
+route-views.isc.routeviews.org -> Network 17.67.192.0/22 -> ASN Path   4436 3257 8220 8220 714 -> Last Hop ASN 8220
+route-views.isc.routeviews.org -> Network 17.78.179.0/24 -> ASN Path   4436 3257 9116 714 -> Last Hop ASN 9116
+route-views.isc.routeviews.org -> Network 17.78.187.0/24 -> ASN Path   4436 3257 9116 714 -> Last Hop ASN 9116
+Carrier -> Switch Communications  : Location -> USA/Las Vergas 
+route-views.isc.routeviews.org -> Network 17.78.187.0/24 -> ASN Path   4436 3257 9116 714 -> Last Hop ASN 9116
+route-server.nevadanap.com -> Network 17.67.192.0/22 -> ASN Path   19151 8220 714 -> Last Hop ASN 8220
+route-server.nevadanap.com -> Network 17.78.179.0/24 -> ASN Path   701 3257 9116 714 -> Last Hop ASN 9116
+route-server.nevadanap.com -> Network 17.78.187.0/24 -> ASN Path   701 3257 9116 714 -> Last Hop ASN 9116
+Carrier -> Oregon Route Views with Verizon UK : Location -> UK 
+route-server.nevadanap.com -> Network 17.78.187.0/24 -> ASN Path   701 3257 9116 714 -> Last Hop ASN 9116
+route-views.linx.routeviews.org -> Network 17.67.192.0/22 -> ASN Path   13030 8220 714 -> Last Hop ASN 8220
+route-views.linx.routeviews.org -> Network 17.78.179.0/24 -> ASN Path   3257 9116 714 -> Last Hop ASN 9116
+route-views.linx.routeviews.org -> Network 17.78.187.0/24 -> ASN Path   3257 9116 714 -> Last Hop ASN 9116
+Carrier -> Global Crossing - Europe : Location -> UK 
+route-views.linx.routeviews.org -> Network 17.78.187.0/24 -> ASN Path   3257 9116 714 -> Last Hop ASN 9116
+route-server.eu.gblx.net -> Network 17.67.192.0/22 -> ASN Path   8220 714 -> Last Hop ASN 8220
+route-server.eu.gblx.net -> Network 17.78.179.0/24 -> ASN Path   3356 3491 9116 9116 9116 9116 714 -> Last Hop ASN 9116
+route-server.eu.gblx.net -> Network 17.78.187.0/24 -> ASN Path   3356 3491 9116 9116 9116 9116 714 -> Last Hop ASN 9116
+
+Network 17.67.192.0/22, -> ASN Learned from:
+8220
+
+Network 17.78.179.0/24, -> ASN Learned from:
+8551
+9116
+
+Network 17.78.187.0/24, -> ASN Learned from:
+8551
+9116

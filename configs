@@ -1,0 +1,35 @@
+#Networks
+networks,127.0.0.1/32,1111
+networks,17.67.192.0/22,714
+networks,17.78.179.0/24,714
+networks,17.78.187.0/24,714
+
+#Route View Servers
+Cisco-Telnet,rview,rview,route-server.mtn.com.gh,Africa/Ghana,MTN Ghana
+Cisco-Telnet,,,route-views.optus.net.au,Australia/Chatswood,Optus Australia
+Cisco-Telnet,,,lg.sp.ptt.br,Brazil/Sao Paulo,PTT-Metro Sao Paulo
+Cisco-Telnet,,,route-views.on.bb.telus.com,Canada/Burnaby ,Telus - Eastern Canada 
+Cisco-Telnet,,,route-views.ab.bb.telus.com,Canada,Telus - Western Canada 
+Cisco-Telnet,rserv,rserv,route-server.central.allstream.com,Canada/Toronto,Allstream - Central
+Cisco-Telnet,rserv,rserv,route-server.east.allstream.com,Canada/Montreal,Allstream - East
+###Cisco-Telnet,rserv,rserv,route-server.west.allstream.com,Canada/Vancouver,Allstream - West
+Cisco-Telnet,,,route-server.eastlink.ca,Canada/Halifax,Eastlink
+JUNOS-Telnet,rviews,Rviews,route-server.opentransit.net,France,OpenTransit
+##JUNOS-Telnet,rviews,Rviews,route-server.as6667.net,Finland,Eunet Finland
+Cisco-Telnet,,,route-server.ip.tiscali.net,Germany,Tiscali 
+Cisco-Telnet,,,route-server.belwue.de,Germany/Stuttgart,BelWue
+Cisco-Telnet,,,route-views.wide.routeviews.org,Japan,Oregon Route Views Project
+Cisco-Telnet,,,route-views.linx.routeviews.org,Netherlands,Zebra Route Views on  Swift Global
+Cisco-Telnet,,,route-server.bti.net.ph,Philippines,Bayan Telecom Inc.
+Cisco-Telnet,,,route-server.ip-plus.net,Switzerland,Swisscom IP Plus 
+Cisco-Telnet,saix,saix,tpr-route-server.saix.net,South Africa,South AfricanInternet Exchange - SAIX
+Cisco-Telnet,,,routeserver.sunrise.ch,Switzerland,Sunrise Switzerland
+##JUNOS-Telnet,rviews,rviews123,route-server.twtelecom.net,USA/Denver,Time Warner Telecom 
+Cisco-Telnet,,routes,route-server.host.net,USA/Boca Raton, FL
+Cisco-Telnet,,,route-server.gblx.net,USA/Sunnyvale,Global Crossing
+Cisco-Telnet,,,route-views.isc.routeviews.org,USA/CA ,Zebra Route Views on ISC.org 
+##JUNOS-Telnet,,,route-server.ip.att.net,USA/New York ,AT&T 
+Cisco-Telnet,,rviews,route-server.nevadanap.com,USA/Las Vergas,Switch Communications 
+Cisco-Telnet,,,route-views.linx.routeviews.org,UK,Oregon Route Views with Verizon UK
+Cisco-Telnet,,,route-server.eu.gblx.net,UK,Global Crossing - Europe
+
